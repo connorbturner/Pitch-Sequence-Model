@@ -1,6 +1,6 @@
 # A Neural Network Pitch Prediction Model
 
-This repository contains files and data pertaining to multiple versions of Neural Network models designed to predicted what the next pitch will be in a given at-bat. The file names and their purposes are listed below:
+This repository contains files and data pertaining to multiple versions of Neural Network models designed to predict what the next pitch will be in a given at-bat. The file names and their purposes are listed below:
 
 **_Important Note_**: some of the index slicing may need to be changed in the files below depending on whether or not your dataset includes indices. These were written to work with a dataset that included indices in the first column.
 
